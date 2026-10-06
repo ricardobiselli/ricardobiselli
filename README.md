@@ -1,4 +1,3 @@
-Ricardo Biselli
 Full-Stack Developer | C# / .NET | React | PostgreSQL
 
 Software developer focused on building practical web applications with C#, ASP.NET Core, React, REST APIs, and PostgreSQL.
